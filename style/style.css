@@ -162,6 +162,8 @@ main {
     color: var(--low-priority);
 }
 
+/* -------State and interactivity------- */
+
 aside li a:hover {
     background-color: var(--main-background);
     color: var(--accent-color);
